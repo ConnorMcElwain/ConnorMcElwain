@@ -4,13 +4,13 @@
   </div>
 
   <div id="badges">
-    <a href="https://beta.mcelwain.me">
+    <a href="https://beta.mcelwain.me" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Website-purple?logo=headspace&logoColor=white&style=for-the-badge" alt="Website Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/connor-mcelwain/">
+    <a href="https://www.linkedin.com/in/connor-mcelwain/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:connor@mcelwain.me">
+    <a href="mailto:connor@mcelwain.me" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
     </a>
   </div>
@@ -19,7 +19,6 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Welcome Gif"/>
 
   <hr/>
-
 </div>
 
 ### 👨‍💻 About Me
@@ -38,11 +37,11 @@ I'm a **Network/Systems Technician** based in Champaign-Urbana, Illinois, dedica
 
 ### 🚀 Projects
 
-- [**Project 1**](https://github.com/yourusername/project1): I'll put something here soon.
-- [**Project 2**](https://github.com/yourusername/project2): I'll put something here soon.
+- [**Project 1**](https://github.com/yourusername/project1){:target="_blank" rel="noopener noreferrer"}: I'll put something here soon.
+- [**Project 2**](https://github.com/yourusername/project2){:target="_blank" rel="noopener noreferrer"}: I'll put something here soon.
 
 <!-- Footer -->
 <div align="center">
-  <p>📫 Feel free to reach out via <a href="mailto:connor@mcelwain.me">email</a> or connect with me on <a href="https://www.linkedin.com/in/connor-mcelwain/">LinkedIn</a>.</p>
+  <p>📫 Feel free to reach out via <a href="mailto:connor@mcelwain.me" target="_blank" rel="noopener noreferrer">email</a> or connect with me on <a href="https://www.linkedin.com/in/connor-mcelwain/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
   <p>✨ Happy Coding!</p>
 </div>
