@@ -37,8 +37,8 @@ I'm a **Network/Systems Technician** based in Champaign-Urbana, Illinois, dedica
 
 ### 🚀 Projects
 
-- [**Project 1**](https://github.com/yourusername/project1){:target="_blank" rel="noopener noreferrer"}: I'll put something here soon.
-- [**Project 2**](https://github.com/yourusername/project2){:target="_blank" rel="noopener noreferrer"}: I'll put something here soon.
+- <a href="https://github.com/yourusername/project1" target="_blank" rel="noopener noreferrer"><strong>Project 1</strong></a>: I'll put something here soon.
+- <a href="https://github.com/yourusername/project2" target="_blank" rel="noopener noreferrer"><strong>Project 2</strong></a>: I'll put something here soon.
 
 <!-- Footer -->
 <div align="center">
