@@ -15,34 +15,32 @@
     </a>
   </div>
 
-  <h1>👋 Welcome to My GitHub! 👋</h1>
+  <h1>👋Welcome to My GitHub!👋</h1>
   <img src="http://oss.tan8.com/resource/attachment/2021/202107/3b2a1b60fe6aa7972294a3b1ae897269.gif" width="400" alt="Welcome Gif"/>
 
   <hr/>
 
 </div>
 
-### 👨‍💻 About Me
+### 👨‍💻 [About Me](https://beta.mcelwain.me/experience#about-me)
 
 I'm a **Network/Systems Technician** based in Champaign-Urbana, Illinois, dedicated to optimizing and securing network systems for the City of Urbana. My focus is on:
 
-- 🌐 **Microsoft Azure Cloud**: Currently pursuing certification to enhance cloud infrastructure skills.
-- 📚 **Lifelong Learning**: Continuously updating my knowledge base through certifications and self-study.
-- ✍️ **Content Creation**: Writing technical articles, guides, and project documentation to help others in the tech community.
+- 🌐 **Cloud Administration**: Currently pursuing certifications to enhance cloud infrastructure/administration skills.
+- 📚 **Constant Learning**: Continuously updating my knowledge base through [certifications](https://beta.mcelwain.me/posts/microsoft) and [personal technical projects](https://beta.mcelwain.me/projects).
 
-### 🛠️ Tools & Technologies
+### 🛠️ [IT Experience](https://beta.mcelwain.me/experience#work-experience)
+- [**Network/Systems Technician**](https://urbanaillinois.us/) - Jan 2024/Present
+- [**IT Technical Associate Help Desk Specialist**](https://vetmed.illinois.edu/) - Feb 2023/Jan 2024
+- [**Computer Technician**](https://www.champaignschools.org/) - Nov 2022/Feb 2023
+- [**Advanced Repair Agent**](https://stores.bestbuy.com/il/champaign/2117-n-prospect-ave-46/geeksquad.html) - May 2019/Nov 2022
+- [**Network Administration Intern**](https://prominic.net/) - Jan 2018/May 2019
 
-- **Languages**: Bash, PowerShell, Python
-- **Platforms**: Azure, VMware, Windows Server
-- **Tools**: Ansible, Git, Jenkins
-
-### 🚀 Projects
-
-- [**Project 1**](https://github.com/yourusername/project1): I'll put something here soon.
-- [**Project 2**](https://github.com/yourusername/project2): I'll put something here soon.
-
-<!-- Footer -->
-<div align="center">
-  <p>📫 Feel free to reach out via <a href="mailto:connor@mcelwain.me">email</a> or connect with me on <a href="https://www.linkedin.com/in/connor-mcelwain/">LinkedIn</a>.</p>
-  <p>✨ Happy Coding!</p>
-</div>
+### ✍️ [Education/Certifications](https://beta.mcelwain.me/experience#certifications)
+- [**Parkland College**](https://www.parkland.edu/) - [Associate of Science - AS, Network Administration and Support](https://www.parkland.edu/Main/Academics/Departments/Business-Computer-Science-Technologies/Areas-of-Study/Computer-Science-Programs/Network-Administration-Support)
+- [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/connormcelwain-1638/credentials/f0e24e33c599648) - [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+- [**Apple Certified Macintosh Technician (ACMT)**]()
+- [**Apple Certified Support Professional (ACSP)**]()
+- [**Apple Certified iOS Technician (ACiT)**]()
+- [**Microsoft Access (Office 2016)**](https://www.credly.com/badges/3e6908a1-8dc8-411e-a33d-1b1334a67bd9/linked_in_profile)
+- [**Microsoft Excel (Office 2016)**](https://www.credly.com/badges/e9f1f1e6-7a12-454d-be87-b5e03301bf2a/linked_in_profile)
