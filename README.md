@@ -22,7 +22,7 @@
 
 </div>
 
-### 👨‍💻 [About Me](https://beta.mcelwain.me/experience#about-me)
+### 👨‍💻 [About Me](https://mcelwain.me/experience)
 
 I'm a **Network/Systems Technician** based in Champaign-Urbana, Illinois, dedicated to optimizing and securing network systems for the City of Urbana. My focus is on:
 
@@ -36,7 +36,7 @@ I'm a **Network/Systems Technician** based in Champaign-Urbana, Illinois, dedica
 - [**Advanced Repair Agent**](https://stores.bestbuy.com/il/champaign/2117-n-prospect-ave-46/geeksquad.html) - May 2019/Nov 2022
 - [**Network Administration Intern**](https://prominic.net/) - Jan 2018/May 2019
 
-### ✍️ [Education/Certifications](https://beta.mcelwain.me/experience#certifications)
+### ✍️ [Education/Certifications](https://mcelwain.me/experience)
 - [**Parkland College**](https://www.parkland.edu/) - [Associate of Science - AS, Network Administration and Support](https://www.parkland.edu/Main/Academics/Departments/Business-Computer-Science-Technologies/Areas-of-Study/Computer-Science-Programs/Network-Administration-Support)
 - [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/connormcelwain-1638/credentials/f0e24e33c599648) - [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 - **Apple Certified Macintosh Technician (ACMT)**
